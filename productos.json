@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1e6be317-fb2e-4da9-a1d6-7ce6fc67785e",
+    "title": "Producto de ejemplo",
+    "description": "Descripción del producto de ejemplo",
+    "code": "123457",
+    "price": 500,
+    "status": true,
+    "stock": 10,
+    "category": "Categoría de ejemplo",
+    "thumbnails": [
+      "ruta1.jpg"
+    ]
+  },
+  {
+    "id": "52f20870-041a-4f70-bbc5-261c7133444a",
+    "title": "Producto de ejemplo",
+    "description": "Descripción del producto de ejemplo",
+    "code": "123457",
+    "price": 500,
+    "status": true,
+    "stock": 10,
+    "category": "Categoría de ejemplo",
+    "thumbnails": [
+      "ruta1.jpg"
+    ]
+  }
+]
